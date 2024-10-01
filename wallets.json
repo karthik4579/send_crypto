@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ghest",
+    "type": "Ethereum Testnet",
+    "address": "0x20Dc1BbDBe0fa8900EdAe56b3E5b2525cb621E06",
+    "private_key": "9e478722690e24dcd567ef55a93fcc7593c6e2624f6fc48cd689d4eb9cdda900"
+  },
+  {
+    "name": "test1",
+    "type": "Ethereum Testnet",
+    "address": "0x46757404A8A5cCEcaEe71C4012d77d500c01aF83",
+    "private_key": "55b29bf380c90f23a6f818a527136354b4c2aaa0412721ba09f2990875262a3f"
+  },
+  {
+    "name": "ghest2",
+    "type": "Dash",
+    "address": "yd61ZE3KsNMRixcbK9ZLbH4Bmdx25uS5fJ",
+    "mnemonic": "92CjZ2vXNWw16Y7egDGzDbX216kKGiCBweBWFpkfr8ptsVz2NNa"
+  },
+  {
+    "name": "test_btc",
+    "type": "Bitcoin",
+    "address": "tb1qlh4hvwjqvaz290sjslgqxwlkf8uc8jtxzyehs3",
+    "private_key": "plug supreme scheme illness thank lunar fantasy light captain crane priority trial"
+  }
+]
